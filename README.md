@@ -1,10 +1,10 @@
-# 📝 AI MCQ Generator
+#  AI MCQ Generator
 
 An AI-powered Multiple Choice Question (MCQ) Generator built using **Python, Streamlit, and Hugging Face**. This application helps students generate multiple-choice questions from their study material.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **AI MCQ Generator** allows users to enter their study material and generate MCQs automatically.
 
@@ -22,25 +22,25 @@ The application provides a simple and user-friendly interface using **Streamlit*
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📚 Generate MCQs from study material
-- 📝 Text input for notes and textbook content
-- 🔢 Select the number of questions
-- 🎯 Select difficulty level
+-  Generate MCQs from study material
+-  Text input for notes and textbook content
+-  Select the number of questions
+-  Select difficulty level
   - Easy
   - Medium
   - Hard
-- ❓ Generate four options for each question
-- ✅ Display correct answers
-- 💡 Display explanations
-- 🎨 Clean and simple user interface
-- 🌙 Dark-themed Streamlit interface
-- 🤖 AI-powered question generation
+-  Generate four options for each question
+-  Display correct answers
+-  Display explanations
+-  Clean and simple user interface
+-  Dark-themed Streamlit interface
+-  AI-powered question generation
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -51,7 +51,7 @@ The application provides a simple and user-friendly interface using **Streamlit*
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AI_MCQ_Generator/
